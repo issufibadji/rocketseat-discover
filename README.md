@@ -32,7 +32,6 @@
   <br>
   <a href="https://app.rocketseat.com.br/discover/certificates">
     <img height="300px" alt="Certificado Discover Fundamentar" src="https://github.com/vitorhonna/rocketseat-discover/blob/main/images/discover-fundamentar-certificate.jpg">
-    <img height="300px" alt="Certificado Discover Fundamentar" src="https://github.com/issufibadji/rocketseatIssufiBadji/blob/master/images/discover-conectar-certificate-black-en.jpg">
   </a>
   <p>Código: 97673bb3-2d55-4b4b-a859-6b8b488e91e3</p>
 </div>
